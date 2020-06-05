@@ -10,7 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "@cycle/dom": "^22.7.0",
-    "@cycle/run": "^5.4.0"
+    "@cycle/run": "^5.4.0",
+    "@cycle/state": "^1.4.0",
+    "cycle-canvas": "^0.7.0",
+    "uuid": "^8.1.0",
+    "websocket": "^1.0.31"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
